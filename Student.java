@@ -25,7 +25,11 @@ public class Student {
         tarctic.age = 18;
         tarctic.printInfo();
 
-
+        // Seatyamity
+        Student Rahul = new Student();
+        Rahul.username = "Rahul";
+        Rahul.age = 26;
+        Rahul.printInfo();
 
 
         /* Add your code above this line */
