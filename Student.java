@@ -30,6 +30,12 @@ public class Student {
         Rahul.username = "Rahul";
         Rahul.age = 26;
         Rahul.printInfo();
+        
+        // Bhavyamax
+        Student max = new Student();
+        max.username = "Bhavyamax";
+        max.age = 21;
+        max.printInfo();
 
 
         /* Add your code above this line */
