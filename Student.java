@@ -26,10 +26,17 @@ public class Student {
         tarctic.printInfo();
 
         // Seatyamity
-        Student Rahul = new Student();
-        Rahul.username = "Rahul";
-        Rahul.age = 26;
-        Rahul.printInfo();
+        Student rahul = new Student();
+        rahul.username = "Rahul";
+        rahul.age = 26;
+        rahul.printInfo();
+        //Try using CAMEL case
+        
+        // Bhavyamax
+        Student max = new Student();
+        max.username = "Bhavyamax";
+        max.age = 21;
+        max.printInfo();
 
 
         /* Add your code above this line */
