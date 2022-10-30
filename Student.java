@@ -15,7 +15,7 @@ public class Student {
 
         // Example
         Student example = new Student(); // Creating an object of Class Student
-        example.username = "Example";    // Setting values for the object
+        example.username = "Maryam";    // Setting values for the object
         example.age = 20;
         example.printInfo();             // Calling a method on the object
 
