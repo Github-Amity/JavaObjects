@@ -37,6 +37,13 @@ public class Student {
         max.username = "Bhavyamax";
         max.age = 21;
         max.printInfo();
+        
+         // Maryam
+        Student maryam = new Student(); 
+        maryam.username = "Maryam";    
+        maryam.age = 19;
+        maryam.printInfo();            
+
 
 
         /* Add your code above this line */
