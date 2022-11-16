@@ -42,7 +42,13 @@ public class Student {
         Student maryam = new Student(); 
         maryam.username = "Maryam";    
         maryam.age = 19;
-        maryam.printInfo();            
+        maryam.printInfo();     
+        
+        // Hannan
+        Student hannan = new Student();
+        hannan.username = "Hannan";
+        hannan.age = 28;
+        hannan.printInfo();
 
 
 
