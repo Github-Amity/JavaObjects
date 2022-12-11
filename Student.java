@@ -50,7 +50,11 @@ public class Student {
         hannan.age = 28;
         hannan.printInfo();
 
-
+        // fatemaa
+        Student fatema = new Student();
+        fatema.username = "fatema";
+        fatema.age = 19;
+        fatema.printInfo();
 
         /* Add your code above this line */
 
